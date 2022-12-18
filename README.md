@@ -35,10 +35,9 @@
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-4/blob/main/22.PNG)<br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-4/blob/main/23.PNG)<br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-4/blob/main/24.PNG)<br />
-3. Video<br /><br />
-
-5. Conclusiones
-
-7. Bibliografia
+Conclusiones<br /><br />
+- Podemos resolver circitos mixtos con leyes de kirchhoff, ohm, divisores de voltaje, también podemos aplicar teoremas de thevenin, Norton y superposición.<br /><br />
+- Los circuitos serie-paralelo son de ayuda y también al conocer más sobre sus aplicaciones se puede ver donde usarlos y como calcular sus valores, de acuerdo a lo que se necesite para resolver.<br /><br />
+Bibliografia<br /><br />
 Floyd, T. L. (2007). Circuitos en serie-paralelo En T. L. Floyd, Principios de circuitos eléctricos (págs. 226-275). México: Pearson Educación de México, S.A. de C.V.<br />
 Floyd, T. L. (2007). Teoremas de circuitos y conversiones. En T. L. Floyd, Principios de circuitos eléctricos (págs. 280-330). México: Pearson Educación de México , S.A. de C.V.<br />
