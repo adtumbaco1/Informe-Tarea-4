@@ -23,3 +23,15 @@
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-4/blob/main/10.PNG)<br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-4/blob/main/11.PNG)<br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-4/blob/main/12.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-4/blob/main/13.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-4/blob/main/14.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-4/blob/main/15.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-4/blob/main/16.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-4/blob/main/17.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-4/blob/main/18.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-4/blob/main/19.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-4/blob/main/20.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-4/blob/main/21.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-4/blob/main/22.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-4/blob/main/23.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-4/blob/main/24.PNG)<br />
